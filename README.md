@@ -2,7 +2,7 @@
 
 Welcome to the Sephora Personalized Recommendation System repository! 💄👠🛍️
 
-![Sephora Logo](https://www.sephora.com/contentimages/logo/logo-dark.png)
+![Sephora-Logo](https://github.com/RoshankumarS14/Personalized-Recommendation-System-for-Ecommerce-Sephora-/assets/123869873/6ea33312-6c9d-4d02-a714-4ba0ff7ba0dd)
 
 ## 📜 Table of Contents
 
