@@ -24,7 +24,7 @@ def local_css(file_name):
     with open(file_name) as f:
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
-lottie_coding = load_lottiefile("Images/Animations/box.json")
+lottie_coding = load_lottiefile("Images/Animations/Box.json")
 lottie_coding2 = load_lottiefile("Images/Animations/Makeup.json")
 
 # Define the img_to_bytes and img_to_html functions
