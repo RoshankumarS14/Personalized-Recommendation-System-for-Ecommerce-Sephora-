@@ -94,7 +94,7 @@ Our system is deployed and ready to serve you. Whether you prefer the desktop or
 
 📋 **requirements.txt** - Lists the Python packages and dependencies required to run the project.
 
-🌐 **Website** - [Link to Our Website](https://www.yourwebsite.com](https://personalized-recommendation-sephora.onrender.com/)
+🌐 **Website** - [Link to Our Website](https://personalized-recommendation-sephora.onrender.com/)
 
 ## 📦 Datasets
 
