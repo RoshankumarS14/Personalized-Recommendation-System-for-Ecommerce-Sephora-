@@ -94,6 +94,8 @@ Our system is deployed and ready to serve you. Whether you prefer the desktop or
 
 📋 **requirements.txt** - Lists the Python packages and dependencies required to run the project.
 
+🌐 **Website** - [Link to Our Website](https://www.yourwebsite.com](https://personalized-recommendation-sephora.onrender.com/)
+
 ## 📦 Datasets
 
 This folder stores all the datasets used in the project. Ensure that datasets are organized and named meaningfully for easy access and usage.
@@ -121,8 +123,6 @@ This file provides an overview of the repository's structure and a brief introdu
 ## 📋 requirements.txt
 
 The 'requirements.txt' file lists all the Python packages and dependencies required to run the project. Make sure to keep this file up to date with the necessary dependencies for easy project setup.
-
-Feel free to customize this README with additional sections or information relevant to your project. An organized structure makes it easier for collaborators and users to navigate and understand your repository.
 
 
 ## Getting Started
