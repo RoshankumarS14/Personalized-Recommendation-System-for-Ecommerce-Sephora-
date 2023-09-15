@@ -78,43 +78,52 @@ We've created a user-friendly interface using tkinter for desktop applications a
 
 Our system is deployed and ready to serve you. Whether you prefer the desktop or web experience, we've got you covered. 🚀🌐
 
-<h1 align="center">Project Name</h1>
+# Repository Structure
 
-<p align="center">
-  <img src="https://placeimg.com/200/200/tech" alt="Project Logo" width="200">
-</p>
+📦 **Datasets** - Contains all datasets used in the project.
 
-<p align="center">
-  <em>Brief project tagline/description goes here.</em>
-</p>
+🖼️ **Images** - Contains all images used in the project, such as logos, visualizations, etc.
 
----
+📔 **Notebooks** - Contains Jupyter notebook files used for data analysis, experimentation, and documentation.
 
-<p align="center">
-  <strong>Table of Contents</strong>
-</p>
+📄 **Pages** - Contains pages and templates for the website or application.
 
-- [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+🚀 **App.py** - The main page or entry point of the website or application.
 
----
+📋 **README.md** - This file, providing an overview of the repository.
 
-## Repository Structure
+📋 **requirements.txt** - Lists the Python packages and dependencies required to run the project.
 
-The repository is organized as follows:
+## 📦 Datasets
 
-- **Datasets**: Contains all datasets used in the project.
-- **Images**: Contains all images used in the project, such as logos, visualizations, etc.
-- **Notebooks**: Contains Jupyter notebook files used for data analysis, experimentation, and documentation.
-- **Pages**: Contains pages and templates for the website or application.
-- **App.py**: The main page or entry point of the website or application.
-- **README.md**: This file, providing an overview of the repository.
-- **requirements.txt**: Lists the Python packages and dependencies required to run the project.
+This folder stores all the datasets used in the project. Ensure that datasets are organized and named meaningfully for easy access and usage.
 
----
+## 🖼️ Images
+
+The 'Images' directory houses all image assets required for the project. This includes logos, charts, and any other visual content.
+
+## 📔 Notebooks
+
+This directory contains Jupyter notebook files used throughout the project's development. Notebooks serve as a collaborative and interactive environment for data analysis, modeling, and documentation.
+
+## 📄 Pages
+
+The 'Pages' folder contains pages and templates for the website or application. This is where you'll define the structure, layout, and content of your project's user interface.
+
+## 🚀 App.py
+
+The 'App.py' file serves as the main entry point of the website or application. It's where you'll define the application's behavior and user interactions.
+
+## 📋 README.md
+
+This file provides an overview of the repository's structure and a brief introduction to the project. It serves as a starting point for users and contributors.
+
+## 📋 requirements.txt
+
+The 'requirements.txt' file lists all the Python packages and dependencies required to run the project. Make sure to keep this file up to date with the necessary dependencies for easy project setup.
+
+Feel free to customize this README with additional sections or information relevant to your project. An organized structure makes it easier for collaborators and users to navigate and understand your repository.
+
 
 ## Getting Started
 
